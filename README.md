@@ -10,4 +10,4 @@ I mainly program in JavaScript, TypeScript, Python, HTML5, EJS and CSS.
 
 ##### Badges
 ------------
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThatLonelyMozza&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Solixity&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
