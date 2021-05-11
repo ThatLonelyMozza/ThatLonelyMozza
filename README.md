@@ -29,3 +29,6 @@ I have no honest idea why I program stuff still but hey, at least I'm getting pa
 <h3>My Projects</h3>
 - Komodo (Not Open Source - Yet) <br />
 - <a href="https://github.com/Solixity/OpenSourceMinecraftPanel">Open Source Minecraft Panel</a> (OSMP) <br />
+<hr />
+<h3>My WakaTime Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Solixity&theme=dark" />
